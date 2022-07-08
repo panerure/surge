@@ -1,20 +1,12 @@
 # > WEB
-DOMAIN-SUFFIX,bangumi.online,DIRECT // Added for: bangumi.online:443
-DOMAIN-SUFFIX,xiaohongshu.com,DIRECT // Added for: ads-video-qn.xiaohongshu.com:443
-DOMAIN-SUFFIX,myqcloud.com,DIRECT // Added for: 1251489075.vod2.myqcloud.com:443
-DOMAIN-SUFFIX,bcebos.com,DIRECT // Added for: bj.bcebos.com:443
-DOMAIN-SUFFIX,icloud-content.com,DIRECT // Added for: edge-039.jptyo12.icloud-content.com:443
-DOMAIN-SUFFIX,ksyun.com,DIRECT // Added for: ks3-cn-beijing.ksyun.com:443
-DOMAIN-SUFFIX,szbdyd.com,DIRECT // Added for: nlmqm7pj.v1d.szbdyd.com:9305
-DOMAIN-SUFFIX,streaks.jp,🇯🇵 日本节点
-DOMAIN-SUFFIX,google,🇺🇸 美国节点
-DOMAIN-SUFFIX,tw,🇹🇼 台湾节点 // Added for: cp.bookwalker.com.tw:443
-DOMAIN-KEYWORD,binance,🇹🇼 台湾节点
-DOMAIN-SUFFIX,hanime1.me,DIRECT // Added for webpage: hanime1.me:443
-DOMAIN-SUFFIX,imomoe.la,DIRECT // Added for webpage: http://www.imomoe.la/view/7832.html
-DOMAIN-SUFFIX,chinaplay.store,DIRECT
-DOMAIN-SUFFIX,brightcove.com,🇯🇵 日本节点
-DOMAIN-SUFFIX,tver.jp,🇯🇵 日本节点
-DOMAIN-SUFFIX,jsdelivr.net,🇯🇵 日本节点
-DOMAIN-SUFFIX,qq88.info,📹 国外流媒体
+DOMAIN-SUFFIX,bangumi.online
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,imomoe.la
+DOMAIN-SUFFIX,chinaplay.store
 DOMAIN-SUFFIX,510yh.cc,DIRECT
