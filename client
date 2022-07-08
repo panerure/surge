@@ -1,18 +1,3 @@
-# Client
-PROCESS-NAME,/Applications/Craft.app/Contents/MacOS/Craft,🇯🇵 日本节点
-PROCESS-NAME,/Applications/IINA.app/Contents/MacOS/IINA,DIRECT
-PROCESS-NAME,/Applications/CrossOver 2.app/Contents/MacOS/CrossOver,🇭🇰 香港节点
-PROCESS-NAME,/Applications/CrossOver 2.app/Contents/SharedSupport/CrossOver/CrossOver-Hosted Application/wine32on64-preloader,🇭🇰 香港节点
-PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram,🇭🇰 香港节点
-PROCESS-NAME,/Applications/Maipo.app/Contents/MacOS/Maipo,DIRECT
-PROCESS-NAME,/Applications/Emby.app/Contents/MacOS/Emby,📹 国外流媒体
-PROCESS-NAME,/Applications/Infuse.app/Contents/MacOS/Infuse,📹 国外流媒体
-PROCESS-NAME,/Users/Shared/Battle.net/Agent/Agent.7779/Agent.app/Contents/MacOS/Agent,🇭🇰 香港节点
-PROCESS-NAME,/Applications/Battle.net.app/Contents/MacOS/Battle.net,🇭🇰 香港节点
-PROCESS-NAME,/Applications/Hearthstone/Hearthstone.app/Contents/MacOS/Hearthstone,🇭🇰 香港节点
-IP-CIDR,183.47.98.80/32,📹 国外流媒体,no-resolve
-IP-CIDR,144.76.136.109/32,📹 国外流媒体,no-resolve
-DOMAIN-KEYWORD,emby,📹 国外流媒体
 # > Proxy
 PROCESS-NAME,v2ray,DIRECT
 PROCESS-NAME,ss-local,DIRECT
