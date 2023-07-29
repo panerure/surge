@@ -45,7 +45,6 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,winticket.jp
-DOMAIN-KEYWORD, sequoia
 USER-AGENT,AbemaTV*
 USER-AGENT,Abema*
 DOMAIN-SUFFIX,bucketeer.jp
