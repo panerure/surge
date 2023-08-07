@@ -29,5 +29,6 @@ DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,bitgetapp.com
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,filters.adtidy.org
+DOMAIN-SUFFIX,uuu.glass
 IP-CIDR,1.1.1.1/32
 IP-CIDR6,2606:4700:4700::1111/128
